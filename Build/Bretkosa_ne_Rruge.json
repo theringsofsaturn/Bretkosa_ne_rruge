@@ -1,0 +1,16 @@
+{
+"companyName": "Emilian Kasemi",
+"productName": "Bretkosa ne rruge",
+"productVersion": "0.1",
+"dataUrl": "Bretkosa_ne_Rruge.data.unityweb",
+"wasmCodeUrl": "Bretkosa_ne_Rruge.wasm.code.unityweb",
+"wasmFrameworkUrl": "Bretkosa_ne_Rruge.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.3f1"
+}
